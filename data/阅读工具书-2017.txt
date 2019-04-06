@@ -1,0 +1,109 @@
+{"index": "1.", "link": "http://product.dangdang.com/24002114.html", "title": "朗读手册（三册套装）", "author": "（美）吉姆・崔利斯， 爱心树童书  出品", "date": "2016-07-01", "publishment": "新星出版社", "number_of_people": "31900条评论"}
+{"index": "2.", "link": "http://product.dangdang.com/22938482.html", "title": "彭懿童书阅读指南：《世界图画书阅读与经典》《世界儿童文学阅读与经典》", "author": "彭懿 著", "date": "2011-09-01", "publishment": "接力出版社", "number_of_people": "10748条评论"}
+{"index": "3.", "link": "http://product.dangdang.com/23340869.html", "title": "幸福的种子", "author": "（日）松居直　著，刘涤昭　译", "date": "2013-09-01", "publishment": "２１世纪出版社", "number_of_people": "54125条评论"}
+{"index": "4.", "link": "http://product.dangdang.com/24002050.html", "title": "朗读手册（最终修订版）", "author": "（美）吉姆・崔利斯", "date": "2016-07-01", "publishment": "新星出版社", "number_of_people": "17471条评论"}
+{"index": "5.", "link": "http://product.dangdang.com/22934130.html", "title": "《世界图画书阅读与经典》", "author": "彭懿　著", "date": "2012-12-12", "publishment": "接力出版社", "number_of_people": "9242条评论"}
+{"index": "6.", "link": "http://product.dangdang.com/24179449.html", "title": "我的图画书论", "author": "（日）松居直 著，郭雯霞  徐小洁 译", "date": "2017-01-01", "publishment": "新疆青少年出版社", "number_of_people": "5654条评论"}
+{"index": "7.", "link": "http://product.dangdang.com/23332865.html", "title": "子涵讲童书（2册套装）", "author": "梅子涵　著", "date": "2013-09-01", "publishment": "少年儿童出版社", "number_of_people": "2863条评论"}
+{"index": "8.", "link": "http://product.dangdang.com/22586001.html", "title": "阅读的力量", "author": "(美)斯蒂芬？克拉生", "date": "2011-12-01", "publishment": "新疆青少年出版社", "number_of_people": "18900条评论"}
+{"index": "9.", "link": "http://product.dangdang.com/24033689.html", "title": "书语者（如何激发孩子的阅读潜能）", "author": "唐娜琳・米勒（Donalyn Miller) /著  关睿 石东 /译  阿甲 /审译", "date": "2016-09-01", "publishment": "新疆青少年出版社", "number_of_people": "7065条评论"}
+{"index": "10.", "link": "http://product.dangdang.com/23617217.html", "title": "大猫老师的绘本作文课 一年级", "author": "陈迅��", "date": "2014-12-01", "publishment": "北京联合出版公司", "number_of_people": "12676条评论"}
+{"index": "11.", "link": "http://product.dangdang.com/24045587.html", "title": "《大猫老师的绘本作文课?三年级》", "author": "陈迅��", "date": "2016-10-01", "publishment": "北京联合出版公司", "number_of_people": "6073条评论"}
+{"index": "12.", "link": "http://product.dangdang.com/23807170.html", "title": "大猫老师的绘本作文课・二年级", "author": "陈迅�础≈�", "date": "2015-11-01", "publishment": "北京联合出版公司", "number_of_people": "8007条评论"}
+{"index": "13.", "link": "http://product.dangdang.com/24002051.html", "title": "朗读手册Ⅱ", "author": "（美）吉姆・崔利斯 著", "date": "2016-07-01", "publishment": "新星出版社", "number_of_people": "4406条评论"}
+{"index": "14.", "link": "http://product.dangdang.com/20856868.html", "title": "给孩子100本最棒的书", "author": "（美）安妮塔西尔维　著，王林　译", "date": "2010-05-01", "publishment": "湖南少儿出版社", "number_of_people": "14554条评论"}
+{"index": "15.", "link": "http://product.dangdang.com/23906996.html", "title": "[禹田・阅读理论经典书系]说来听听：儿童、阅读与讨论", "author": "（英）艾登・钱伯斯", "date": "2016-02-16", "publishment": "北京联合出版公司", "number_of_people": "8518条评论"}
+{"index": "16.", "link": "http://product.dangdang.com/25069354.html", "title": "如何给孩子读绘本", "author": "松居直", "date": "2017-05-01", "publishment": "北京联合出版公司", "number_of_people": "12765条评论"}
+{"index": "17.", "link": "http://product.dangdang.com/24216367.html", "title": "阅读理论经典书系：图画书宝典", "author": "（美）丹尼丝・I.马图卡著  王志庚译", "date": "2017-01-01", "publishment": "北京联合出版公司", "number_of_people": "2638条评论"}
+{"index": "18.", "link": "http://product.dangdang.com/23906995.html", "title": "[禹田・阅读理论经典书系]打造儿童阅读环境", "author": "（英）艾登・钱伯斯", "date": "2016-02-16", "publishment": "北京联合出版公司", "number_of_people": "6867条评论"}
+{"index": "19.", "link": "http://product.dangdang.com/24034655.html", "title": "韩兴娥海量阅读套餐", "author": "玄老汉 韩兴娥 皮拉尔・洛萨诺・卡瓦约,亚历杭德罗・罗德里格斯(著) 克劳迪娅・拉努奇（绘）", "date": "2016-08-01", "publishment": "辽宁少年儿童出版社", "number_of_people": "699条评论"}
+{"index": "20.", "link": "http://product.dangdang.com/23654447.html", "title": "绘本是最好的教科书：跟着儿童心理学家读绘本", "author": "吴念阳　主编", "date": "2015-03-01", "publishment": "北京大学出版社", "number_of_people": "4858条评论"}
+{"index": "21.", "link": "http://product.dangdang.com/23177219.html", "title": "花婆婆方素珍  原创绘本馆：绘本阅读时代", "author": "方素珍", "date": "2013-02-01", "publishment": "浙江少年儿童出版社", "number_of_people": "4210条评论"}
+{"index": "22.", "link": "http://product.dangdang.com/22561762.html", "title": "绘本有什么了不起", "author": "林美琴", "date": "2012-01-01", "publishment": "新疆青少年出版社", "number_of_people": "9583条评论"}
+{"index": "23.", "link": "http://product.dangdang.com/24191697.html", "title": "当绘本遇见戏剧:教室里的小剧场", "author": "葛琦霞", "date": "2017-03-01", "publishment": "外语教学与研究出版社", "number_of_people": "4889条评论"}
+{"index": "24.", "link": "http://product.dangdang.com/24005667.html", "title": "朗读手册Ⅲ", "author": "（美）吉姆・崔利斯", "date": "2016-07-01", "publishment": "新星出版社", "number_of_people": "2535条评论"}
+{"index": "25.", "link": "http://product.dangdang.com/20813700.html", "title": "《绘本赏析与创意教学》  启发创意教学丛书", "author": "余治莹，王林  著", "date": "2010-04-01", "publishment": "河北教育出版社", "number_of_people": "9219条评论"}
+{"index": "26.", "link": "http://product.dangdang.com/22480465.html", "title": "绘本之力", "author": "[日]河合隼雄，松居直，柳田邦男　文，朱自强　译", "date": "2011-08-01", "publishment": "贵州人民出版社", "number_of_people": "12274条评论"}
+{"index": "27.", "link": "http://product.dangdang.com/23186524.html", "title": "世界儿童文学阅读与经典", "author": "彭懿著", "date": "2011-11-01", "publishment": "接力出版社", "number_of_people": "3329条评论"}
+{"index": "28.", "link": "http://product.dangdang.com/22615295.html", "title": "图画书应该这样读", "author": "彭懿", "date": "2012-02-01", "publishment": "接力出版社", "number_of_people": "10675条评论"}
+{"index": "29.", "link": "http://product.dangdang.com/23781967.html", "title": "小学语文儿童文学教学法", "author": "朱自强　著", "date": "2015-09-01", "publishment": "二十一世纪出版社", "number_of_people": "3452条评论"}
+{"index": "30.", "link": "http://product.dangdang.com/24013882.html", "title": "如何写好一个故事", "author": "（美）安・华福・保罗 著", "date": "2016-08-01", "publishment": "新星出版社", "number_of_people": "1967条评论"}
+{"index": "31.", "link": "http://product.dangdang.com/23991643.html", "title": "儿童戏剧魔法棒", "author": "王添强 朱曙明", "date": "2016-06-01", "publishment": "新疆青少年出版社", "number_of_people": "2520条评论"}
+{"index": "32.", "link": "http://product.dangdang.com/25155176.html", "title": "耕林童书馆・图画书为什么重要（童书插画家是怎样炼成的？）", "author": "【美】伦纳德・S.马库斯/著；阿甲 曹�h  董海雅 黄建萍 马云荣 杨庆华 姚晶晶  于丽锦 曾里/译", "date": "2017-08-01", "publishment": "江苏凤凰美术出版社", "number_of_people": "1771条评论"}
+{"index": "33.", "link": "http://product.dangdang.com/22925803.html", "title": "Q书架.爱拼点读笔升级版（8G内存 随时扩容 操作更便捷）", "author": "爱拼益智产品教育研发组　编", "date": "2012-12-01", "publishment": "机械工业出版社", "number_of_people": "113条评论"}
+{"index": "34.", "link": "http://product.dangdang.com/24239948.html", "title": "思维导图学唐诗 （儿童思维导图唐诗绘本 30幅精选全彩唐诗思维导图学习卡）", "author": "陈星云", "date": "2017-04-01", "publishment": "中华工商联合出版社", "number_of_people": "684条评论"}
+{"index": "35.", "link": "http://product.dangdang.com/22560360.html", "title": "童书创作实用指南", "author": "（英）苔丝狄蒙娜•麦克卡农等　著  ，宋佩　译", "date": "2011-11-01", "publishment": "接力出版社", "number_of_people": "1062条评论"}
+{"index": "36.", "link": "http://product.dangdang.com/24179325.html", "title": "观赏图画书中的图画", "author": "（美）珍・杜南 著，宋�� 译", "date": "2017-01-01", "publishment": "新疆青少年出版社", "number_of_people": "1517条评论"}
+{"index": "37.", "link": "http://product.dangdang.com/23961601.html", "title": "儿童阅读专家指导书系・图画书的讲读艺术", "author": "陈晖", "date": "2016-05-04", "publishment": "明天出版社", "number_of_people": "1128条评论"}
+{"index": "38.", "link": "http://product.dangdang.com/23436047.html", "title": "书，儿童与成人", "author": "［法］保罗 阿扎尔　著，梅思繁　译", "date": "2014-03-01", "publishment": "湖南少儿出版社", "number_of_people": "2552条评论"}
+{"index": "39.", "link": "http://product.dangdang.com/24174451.html", "title": "幻想文学：阅读与经典", "author": "彭懿", "date": "2017-01-01", "publishment": "二十一世纪出版社", "number_of_people": "740条评论"}
+{"index": "40.", "link": "http://product.dangdang.com/23684132.html", "title": "怎样写作文", "author": "叶圣陶", "date": "2015-04-01", "publishment": "天天出版社有限责任公司", "number_of_people": "2701条评论"}
+{"index": "41.", "link": "http://product.dangdang.com/24229801.html", "title": "林良爷爷漫谈儿童文学：浅语的艺术|纯真的境界（共两册）", "author": "林良", "date": "2017-04-01", "publishment": "福建少年儿童出版社", "number_of_people": "919条评论"}
+{"index": "42.", "link": "http://product.dangdang.com/23602599.html", "title": "欢欣岁月", "author": "［加］李利安史密斯著，梅思繁译", "date": "2014-12-03", "publishment": "湖南少年儿童出版社", "number_of_people": "1941条评论"}
+{"index": "43.", "link": "http://product.dangdang.com/24041122.html", "title": "心弦奏响的一刻：漪然赏读37部经典童书（纪念珍藏版）（奇想国童书）", "author": "漪然", "date": "2016-09-01", "publishment": "北京联合出版公司", "number_of_people": "815条评论"}
+{"index": "44.", "link": "http://product.dangdang.com/25069624.html", "title": "绘本教学工具书：绘本的读写游戏", "author": "林美琴", "date": "2017-04-01", "publishment": "新疆青少年出版社", "number_of_people": "1655条评论"}
+{"index": "45.", "link": "http://product.dangdang.com/25069625.html", "title": "绘本教学工具书：绘本的手作游戏", "author": "林美琴", "date": "2017-04-01", "publishment": "新疆青少年出版社", "number_of_people": "1790条评论"}
+{"index": "46.", "link": "http://product.dangdang.com/23951318.html", "title": "亲子阅读ABC", "author": "袁晓峰 李文", "date": "2016-04-29", "publishment": "新疆青少年出版社", "number_of_people": "1433条评论"}
+{"index": "47.", "link": "http://product.dangdang.com/23993696.html", "title": "儿童阅读专家指导书系・经典这样告诉我们", "author": "朱自强", "date": "2016-05-05", "publishment": "明天出版社", "number_of_people": "584条评论"}
+{"index": "48.", "link": "http://product.dangdang.com/23993698.html", "title": "儿童阅读专家指导书系・享受图画书", "author": "方卫平", "date": "2016-05-06", "publishment": "明天出版社", "number_of_people": "763条评论"}
+{"index": "49.", "link": "http://product.dangdang.com/23684133.html", "title": "怎样学语文", "author": "叶圣陶", "date": "2015-04-01", "publishment": "天天出版社有限责任公司", "number_of_people": "1395条评论"}
+{"index": "50.", "link": "http://product.dangdang.com/23246882.html", "title": "《这样读》系列丛书  （共4册）", "author": "徐鲁，彭懿，吴岩，汤锐  等著", "date": "2012-02-01", "publishment": "接力出版社", "number_of_people": "1143条评论"}
+{"index": "51.", "link": "http://product.dangdang.com/23950721.html", "title": "相信童话(子涵讲童书）", "author": "梅子涵", "date": "2013-09-01", "publishment": "少年儿童出版社", "number_of_people": "260条评论"}
+{"index": "52.", "link": "http://product.dangdang.com/23686546.html", "title": "大师教我学知识（共4册）", "author": "叶圣陶", "date": "2015-04-01", "publishment": "天天出版社有限责任公司", "number_of_people": "392条评论"}
+{"index": "53.", "link": "http://product.dangdang.com/22512869.html", "title": "《世界图画书阅读与经典》", "author": "彭懿　著", "date": "2011-09-01", "publishment": "接力出版社", "number_of_people": "6040条评论"}
+{"index": "54.", "link": "http://product.dangdang.com/24230384.html", "title": "2017年幼儿园图书配备推荐书目", "author": null, "date": "2017-03-01", "publishment": "中国少年儿童出版社", "number_of_people": "316条评论"}
+{"index": "55.", "link": "http://product.dangdang.com/24158616.html", "title": "儿童文学的童年想象", "author": "张嘉骅", "date": "2016-12-01", "publishment": "福建少年儿童出版社", "number_of_people": "260条评论"}
+{"index": "56.", "link": "http://product.dangdang.com/23515886.html", "title": "如何打造书香校园-小学儿童阅读活动指导手册", "author": "苏霞，康希福　著", "date": "2014-07-01", "publishment": "新疆青少年出版社", "number_of_people": "947条评论"}
+{"index": "57.", "link": "http://product.dangdang.com/24185009.html", "title": "浅语的艺术――台湾儿童文学馆・理论馆", "author": "林良", "date": "2017-02-01", "publishment": "福建少年儿童出版社", "number_of_people": "362条评论"}
+{"index": "58.", "link": "http://product.dangdang.com/23543343.html", "title": "怎样给孩子讲故事", "author": "小雨姐姐", "date": "2014-09-01", "publishment": "接力出版社", "number_of_people": "1805条评论"}
+{"index": "59.", "link": "http://product.dangdang.com/23390717.html", "title": "与最合适的绘本相遇", "author": "曲奇", "date": "2013-12-01", "publishment": "北京联合出版公司", "number_of_people": "1008条评论"}
+{"index": "60.", "link": "http://product.dangdang.com/23414158.html", "title": "《儿童文学的多维思考》（国家出版基金资助项目，“鲁迅文学奖”获得者谭旭东又一儿童文学理论力作）", "author": "谭旭东　著", "date": "2013-10-01", "publishment": "未来出版社", "number_of_people": "215条评论"}
+{"index": "61.", "link": "http://product.dangdang.com/23684131.html", "title": "怎样做数学游戏", "author": "叶圣陶", "date": "2015-04-01", "publishment": "天天出版社有限责任公司", "number_of_people": "703条评论"}
+{"index": "62.", "link": "http://product.dangdang.com/9314168.html", "title": "由图画书爱上阅读", "author": "余耀  编著", "date": "2007-03-01", "publishment": "北京师范大学出版社", "number_of_people": "955条评论"}
+{"index": "63.", "link": "http://product.dangdang.com/24185324.html", "title": "打开图画书：我家的亲子阅读课", "author": "罗巨浪", "date": "2017-01-01", "publishment": "黑龙江少年儿童出版社", "number_of_people": "220条评论"}
+{"index": "64.", "link": "http://product.dangdang.com/23950720.html", "title": "阅读儿童文学(子涵讲童书)", "author": "梅子涵", "date": "2013-09-01", "publishment": "少年儿童出版社", "number_of_people": "187条评论"}
+{"index": "65.", "link": "http://product.dangdang.com/24229020.html", "title": "图画书的秘密：中国原创图画书论坛文集", "author": "中国作家协会儿童文学委员会", "date": "2017-01-01", "publishment": "中国少年儿童出版社", "number_of_people": "973条评论"}
+{"index": "66.", "link": "http://product.dangdang.com/24186680.html", "title": "现代童话美学研究", "author": "周晓波", "date": "2016-10-06", "publishment": "未来出版社", "number_of_people": "77条评论"}
+{"index": "67.", "link": "http://product.dangdang.com/24017418.html", "title": "儿童文学小论", "author": "谭旭东", "date": "2016-05-01", "publishment": "海豚出版社", "number_of_people": "143条评论"}
+{"index": "68.", "link": "http://product.dangdang.com/23684134.html", "title": "怎样爱科学", "author": "叶圣陶", "date": "2015-04-01", "publishment": "天天出版社有限责任公司", "number_of_people": "406条评论"}
+{"index": "69.", "link": "http://product.dangdang.com/23898634.html", "title": "家长如何读懂孩子的绘画作品：孩子笔下的小饼干和围裙妈妈原创形象优秀作品200例解析", "author": "杨帅 主编", "date": "2015-12-01", "publishment": "接力出版社", "number_of_people": "89条评论"}
+{"index": "70.", "link": "http://product.dangdang.com/22741627.html", "title": "经典绘本的欣赏与讲读", "author": "陈晖", "date": "2012-05-01", "publishment": "新星出版社", "number_of_people": "5700条评论"}
+{"index": "71.", "link": "http://product.dangdang.com/25117974.html", "title": "中国儿童文学名家论集・美是不会欺骗人的", "author": "刘绪源", "date": "2017-05-01", "publishment": "青岛出版社", "number_of_people": "141条评论"}
+{"index": "72.", "link": "http://product.dangdang.com/23484132.html", "title": "相信童话  中国儿童阅读（第二卷）", "author": "梅子涵　著", "date": "2014-05-01", "publishment": "二十一世纪出版社", "number_of_people": "293条评论"}
+{"index": "73.", "link": "http://product.dangdang.com/24104826.html", "title": "让头脑更聪明：科学思维方法（下篇）――特殊思维方法", "author": "朱立峰", "date": "2016-11-01", "publishment": "广东科技出版社", "number_of_people": "82条评论"}
+{"index": "74.", "link": "http://product.dangdang.com/23561508.html", "title": "最受孩子欢迎的阅读课", "author": "郭志刚　编著", "date": "2014-09-01", "publishment": "北京工业大学出版社", "number_of_people": "170条评论"}
+{"index": "75.", "link": "http://product.dangdang.com/24208018.html", "title": "民间文学大课堂 名师儿童文学教学丛书", "author": "何夏寿", "date": "2017-03-01", "publishment": "二十一世纪出版社", "number_of_people": "165条评论"}
+{"index": "76.", "link": "http://product.dangdang.com/25117970.html", "title": "中国儿童文学名家论集・游戏精神与儿童中国", "author": "班马", "date": "2017-05-01", "publishment": "青岛出版社", "number_of_people": "76条评论"}
+{"index": "77.", "link": "http://product.dangdang.com/25117975.html", "title": "中国儿童文学名家论集・思想的跋涉", "author": "方卫平", "date": "2017-05-01", "publishment": "青岛出版社", "number_of_people": "58条评论"}
+{"index": "78.", "link": "http://product.dangdang.com/24188603.html", "title": "纯真的境界（林良爷爷谈儿童文学）", "author": "林良", "date": "2017-03-01", "publishment": "福建少年儿童出版社", "number_of_people": "125条评论"}
+{"index": "79.", "link": "http://product.dangdang.com/22840970.html", "title": "朗读手册(1-3）", "author": "〔美〕吉姆・崔利斯 著，沙永玲等 译", "date": "2012-08-01", "publishment": "南海出版社", "number_of_people": "30805条评论"}
+{"index": "80.", "link": "http://product.dangdang.com/25117972.html", "title": "中国儿童文学名家论集・走向儿童文学的新观念", "author": "吴其南", "date": "2017-05-01", "publishment": "青岛出版社", "number_of_people": "36条评论"}
+{"index": "81.", "link": "http://product.dangdang.com/25117968.html", "title": "中国儿童文学名家论集・儿童文学的“思想革命”", "author": "朱自强 著", "date": "2017-05-01", "publishment": "青岛出版社", "number_of_people": "71条评论"}
+{"index": "82.", "link": "http://product.dangdang.com/25117977.html", "title": "中国儿童文学名家论集・轮回与救赎", "author": "汤锐", "date": "2017-05-01", "publishment": "青岛出版社", "number_of_people": "40条评论"}
+{"index": "83.", "link": "http://product.dangdang.com/25117969.html", "title": "中国儿童文学名家论集・幻想之门", "author": "彭懿", "date": "2017-05-01", "publishment": "青岛出版社", "number_of_people": "59条评论"}
+{"index": "84.", "link": "http://product.dangdang.com/25117971.html", "title": "中国儿童文学名家论集・儿童文学的真善美", "author": "王泉根 著", "date": "2017-05-01", "publishment": "青岛出版社", "number_of_people": "45条评论"}
+{"index": "85.", "link": "http://product.dangdang.com/25117973.html", "title": "中国儿童文学名家论集・文学独奏", "author": "金燕玉", "date": "2017-05-01", "publishment": "青岛出版社", "number_of_people": "43条评论"}
+{"index": "86.", "link": "http://product.dangdang.com/23602837.html", "title": "欢欣岁月  中国儿童阅读（第三卷）2014夏季卷3", "author": "梅子涵　主编", "date": "2014-11-01", "publishment": "二十一世纪出版社", "number_of_people": "160条评论"}
+{"index": "87.", "link": "http://product.dangdang.com/23798626.html", "title": "彩绘世界经典书系：我来写日记（彩绘注音版）", "author": "梁平 编著", "date": "2015-09-01", "publishment": "万卷出版公司", "number_of_people": "182条评论"}
+{"index": "88.", "link": "http://product.dangdang.com/25117976.html", "title": "中国儿童文学名家论集・童年镜像", "author": "孙建江", "date": "2017-05-01", "publishment": "青岛出版社", "number_of_people": "43条评论"}
+{"index": "89.", "link": "http://product.dangdang.com/23902820.html", "title": "让头脑更聪明：科学思维方法漫谈（上篇）", "author": "朱立峰 编著", "date": "2016-02-01", "publishment": "广东科技出版社", "number_of_people": "51条评论"}
+{"index": "90.", "link": "http://product.dangdang.com/24010196.html", "title": "李学斌理论文集――论儿童文学幽默效应", "author": "李学斌", "date": "2016-03-10", "publishment": "明天出版社", "number_of_people": "21条评论"}
+{"index": "91.", "link": "http://product.dangdang.com/20774181.html", "title": "图画书的讲读艺术", "author": "陈晖  著", "date": "2010-01-01", "publishment": "２１世纪出版社", "number_of_people": "454条评论"}
+{"index": "92.", "link": "http://product.dangdang.com/23801331.html", "title": "我是编辑（当当独家）", "author": "叶至善　著", "date": "1998-04-01", "publishment": "中国少年儿童出版社", "number_of_people": "95条评论"}
+{"index": "93.", "link": "http://product.dangdang.com/24010197.html", "title": "李学斌理论文集――论儿童文学游戏精神", "author": "李学斌", "date": "2016-03-03", "publishment": "明天出版社", "number_of_people": "13条评论"}
+{"index": "94.", "link": "http://product.dangdang.com/22497651.html", "title": "《朗读手册》套装（1-2）", "author": "(美)吉姆・崔利斯 著，沙永玲，梅莉等 译", "date": "2011-08-01", "publishment": "谭旭东", "number_of_people": "8993条评论"}
+{"index": "95.", "link": "http://product.dangdang.com/23469267.html", "title": "让书香润泽童心", "author": "谭旭东　著", "date": "2014-05-01", "publishment": "郑国民", "number_of_people": "62条评论"}
+{"index": "96.", "link": "http://product.dangdang.com/22887691.html", "title": "二十一世纪文学课堂 五年级", "author": "郑国民，陈晖　主编", "date": "2012-09-01", "publishment": "崔利斯", "number_of_people": "103条评论"}
+{"index": "97.", "link": "http://product.dangdang.com/20633120.html", "title": "朗读手册（爱心树童书出品）", "author": "(美)崔利斯", "date": "2009-07-01", "publishment": "汤素兰", "number_of_people": "25398条评论"}
+{"index": "98.", "link": "http://product.dangdang.com/23784880.html", "title": "湖南儿童文学史", "author": "汤素兰，谭群　著", "date": "2015-09-01", "publishment": "屈浩", "number_of_people": "15条评论"}
+{"index": "99.", "link": "http://product.dangdang.com/23797292.html", "title": "语文课和阅读课优秀课案选", "author": "屈浩  谭旭东", "date": "2015-10-01", "publishment": null, "number_of_people": "53条评论"}
+{}
+{"index": "101.", "link": "http://product.dangdang.com/22840971.html", "title": "朗读手册Ⅲ", "author": "〔美〕崔利斯　著，徐海�薄∫�", "date": "2012-08-01", "publishment": "南海出版公司", "number_of_people": "4387条评论"}
+{"index": "102.", "link": "http://product.dangdang.com/22887692.html", "title": "二十一世纪文学课堂 六年级", "author": "郑国民，陈晖　主编", "date": "2012-09-01", "publishment": "２１世纪出版社", "number_of_people": "84条评论"}
+{"index": "103.", "link": "http://product.dangdang.com/22887689.html", "title": "二十一世纪文学课堂 三年级", "author": "郑国民　等主编", "date": "2012-09-01", "publishment": "２１世纪出版社", "number_of_people": "98条评论"}
+{"index": "104.", "link": "http://product.dangdang.com/22615296.html", "title": "童话应该这样读（帮助孩子学会阅读，爱上阅读，享受阅读；实用权威，深入浅出，妙趣横生：）", "author": "汤锐  著", "date": "2012-02-01", "publishment": "接力出版社", "number_of_people": "516条评论"}
+{"index": "105.", "link": "http://product.dangdang.com/22615297.html", "title": "散文应该这样读（帮助孩子学会阅读，爱上阅读，享受阅读；实用权威，深入浅出，妙趣横生：）", "author": "徐鲁　著", "date": "2012-02-01", "publishment": "接力出版社", "number_of_people": "530条评论"}
+{"index": "106.", "link": "http://product.dangdang.com/22887690.html", "title": "二十一世纪文学课堂 四年级", "author": "郑国民，陈晖　主编", "date": "2012-09-01", "publishment": "２１世纪出版社", "number_of_people": "122条评论"}
+{"index": "107.", "link": "http://product.dangdang.com/22615298.html", "title": "科幻应该这样读（帮助孩子学会阅读，爱上阅读，享受阅读；实用权威，深入浅出，妙趣横生：）", "author": "吴岩　著", "date": "2012-02-01", "publishment": "接力出版社", "number_of_people": "392条评论"}
+{"index": "108.", "link": "http://product.dangdang.com/22491479.html", "title": "童年书――文字的儿童文学", "author": "梅子涵　著", "date": "2011-07-01", "publishment": "明天出版社", "number_of_people": "1027条评论"}
+{"index": "109.", "link": "http://product.dangdang.com/22471836.html", "title": "朗读手册Ⅱ", "author": "(美) 吉姆・崔利斯　著，梅莉　译", "date": "2011-08-01", "publishment": "南海出版公司", "number_of_people": "9932条评论"}
