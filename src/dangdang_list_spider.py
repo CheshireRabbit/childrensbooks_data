@@ -6,19 +6,24 @@ from multiprocessing import Pool
 from bs4 import BeautifulSoup
 import time
 import random
+import csv
 
 class_dict = {
+    "01": "0到2岁",
+    "02": "3到6岁",
+    "03": "7到10岁",
+    "04": "11到14岁",
     "26": "中国儿童文学",
     "27": "外国儿童文学",
-    "70": "绘本-图画书",
+    "70": "绘本图画书",
     "05": "科普百科",
     "44": "婴儿读物",
     "45": "幼儿启蒙",
     "46": "益智游戏",
     "48": "玩具书",
-    "50": "卡通-动漫",
+    "50": "卡通动漫",
     "51": "少儿英语",
-    "55": "励志-成长",
+    "55": "励志成长",
     "57": "进口儿童书",
     "69": "少儿期刊",
     "59": "阅读工具书"}
@@ -29,7 +34,7 @@ def get_page(url):
         "User-Agent":
         "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
     }
-    time.sleep(random.randint(0, 30))
+    # time.sleep(random.randint(0, 5))
     response = requests.get(url, headers=headers)
     soup = BeautifulSoup(response.text)
     return str(soup.find("ul", class_="bang_list clearfix bang_list_mode"))
@@ -48,13 +53,12 @@ def parse_one_page(html):
     book_name_list = list(map(lambda x: x.find("a").get(
         "title"), soup.find_all("div", class_="name")))
     try:
-        author_list = list(filter(None, list(map(lambda x: x.find("a").get(
-            "title"), soup.find_all("div", class_="publisher_info")))))
+        author_list = list(map(lambda x: x.find("a").string, soup.find_all("div", class_="publisher_info")))[::2]
     except:
         for s in soup.find_all("div", class_="publisher_info"):
             try:
-                if s.find("a").get("title"):
-                    author_list.append(s.find("a").get("title"))
+                if s.find("a").string:
+                    author_list.append(s.find("a").string)
             except:
                 author_list.append(None)
     publish_soup = list(filter(None, list(map(lambda x: x.find(
@@ -80,10 +84,10 @@ def parse_one_page(html):
 
     number_of_people_list = list(map(lambda x: x.find(
         "a").string, soup.find_all("div", class_="star")))
-    print(publishment_list)
-    print("index num is ", len(index_list))
-    print("publishment num is ", len(publishment_list))
-    print("items num is ", len(items))
+    # print(publishment_list)
+    # print("index num is ", len(index_list))
+    # print("publishment num is ", len(publishment_list))
+    # print("items num is ", len(items))
     for y in range(len(index_list)):
         try:
             if len(publishment_list) < len(items):
@@ -111,20 +115,19 @@ def parse_one_page(html):
 
 
 def write_to_file(content, file_name):
-    with open('./data/'+file_name+'.txt', 'a', encoding='utf-8') as f:
-        # print(content)
-        f.write(json.dumps(content, ensure_ascii=False) + '\n')
-
+    with open('./data/'+file_name+'.csv', 'a') as f:
+        w = csv.DictWriter(f, content.keys())
+        w.writerow(content)
 
 def main():
-    year_list = ["2016", "2017", "2018"]
+    year_list = ["2018"]
 
     for year in year_list:
         for class_ in class_dict.keys():
             for i in range(25):
                 # TODO add interrupt continuation in here
-                # if year == "2016" and class_ in ["26", "27", "70", "05", "44", "45", "46", "48"]:
-                #     continue
+                if class_ not in ["01", "02", "03", "04"]:
+                    continue
                 url = 'http://bang.dangdang.com/books/childrensbooks/01.41.' + \
                     str(class_)+'.00.00.00-year-'+year + \
                     '-0-1-' + str(i + 1) + '-bestsell'
@@ -132,6 +135,7 @@ def main():
                 html = get_page(url)
                 for item in parse_one_page(html):
                     file_name = str(class_dict.get(class_)) + '-' + str(year)
+                    # print(item)
                     write_to_file(item, file_name)
 
 
